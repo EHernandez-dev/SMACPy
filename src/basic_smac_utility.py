@@ -1,7 +1,7 @@
 from time import sleep
 import subprocess
 
-
+''''''
 
 def create_smac_par( path = './', fileName = 'smac_1.par',**kwargs):
 
